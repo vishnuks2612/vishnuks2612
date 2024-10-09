@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript, Java, Python, HTML, CSS, MySQL, MongoDB, Automation Testing**
 
-- 💬 Ask me about **React, Python, HTML, CSS, MySQL, MongoDB, Manual Testing**
+- 💬 Ask me about **React, Python, Django, Flask, HTML, CSS, MySQL, MongoDB, Manual Testing**
 
 - 📫 How to reach me **vishnuks2612@gmail.com**
 
