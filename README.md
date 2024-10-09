@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as a **Front-end Developer**
 
-- 🌱 I’m currently learning **React, JavaScript, Java, Python, HTML, CSS, MySQL, MongoDB, Automation Testing**
+- 🌱 I’m currently learning **React, JavaScript, Java, Python, HTML, CSS, MySQL, MongoDB, Git, GitHub, Automation Testing**
 
-- 💬 Ask me about **React, Python, Django, Flask, HTML, CSS, MySQL, MongoDB, Manual Testing**
+- 💬 Ask me about **React, Python, Django, Flask, HTML, CSS, MySQL, MongoDB, Manual Testing, Git, GitHub**
 
 - 📫 How to reach me **vishnuks2612@gmail.com**
 
