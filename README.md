@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuks2612" alt="vishnuks2612" /></a> </p>
 
-- 🔭 I’m currently working as a **Front-end Developer**
+- 🔭 I’m currently working as a **FullStack Developer**
 
 - 🌱 I’m currently learning **React, JavaScript, Java, Python, HTML, CSS, MySQL, MongoDB, Git, GitHub, Automation Testing**
 
