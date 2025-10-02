@@ -36,7 +36,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,tailwind,java,python,flask,django,mysql,postgres,mongodb,sqlite,linux,git,github,aws,selenium,postman,figma,androidstudio,ps" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,java,python,flask,django,mysql,postgres,mongodb,sqlite,git,github,aws,postman,figma,androidstudio,ps" />
 </p>
 
 ---
