@@ -37,8 +37,8 @@
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,java,python,flask,django,mysql,postgres,mongodb,sqlite,git,github,aws,postman,figma,androidstudio,ps" />
-  <img src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" alt="cPanel" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/godaddy-2.svg" alt="GoDaddy" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" alt="cPanel" width="48" height="48" style="margin-left:8px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/godaddy-2.svg" alt="GoDaddy" width="48" height="48" style="margin-left:8px;"/>
 </p>
 
 
