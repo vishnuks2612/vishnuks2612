@@ -1,4 +1,9 @@
 <!-- Header -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Python+%7C+Django+%7C+MongoDB;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vishnu Satheesan</h1>
 <h3 align="center">🚀 Full Stack Developer | India 🇮🇳</h3>
 
