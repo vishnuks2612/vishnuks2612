@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Full Stack Developer**  
+- 🔭 Currently working as a **Full Stack Developer** @ **MEXPO Group**
 - 🌱 Learning **React, JavaScript, Java, Python, Django, Flask, MySQL, MongoDB, Automation Testing**  
 - 💬 Ask me about **React, Python, Django, Flask, MySQL, MongoDB, Git, GitHub**  
 - 📫 Reach me at **vishnuks2612@gmail.com**  
